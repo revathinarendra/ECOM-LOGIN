@@ -1,0 +1,7 @@
+asgiref
+Django
+pillow
+python-decouple
+pytz
+setuptools
+sqlparse
